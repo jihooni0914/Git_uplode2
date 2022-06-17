@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\VRSTUDIO3\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\VRSTUDIO3\\.nuget\\packages"
+    ]
+  }
+}
